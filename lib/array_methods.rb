@@ -9,6 +9,7 @@ counter=0
 end
 
 def find_max_value(array)
+  while array[]
   
 end
 
