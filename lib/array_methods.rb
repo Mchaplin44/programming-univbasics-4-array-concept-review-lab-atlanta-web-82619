@@ -3,7 +3,7 @@ counter=0
  while array[counter]
  puts array[counter]
  
- i+=1
+ counter+=1
  
  end
 
