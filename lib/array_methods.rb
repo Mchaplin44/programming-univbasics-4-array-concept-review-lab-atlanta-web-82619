@@ -11,8 +11,7 @@ end
 def find_max_value(array)
   array.max 
   
-  
-  while array[]
+
   
 end
 
